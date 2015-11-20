@@ -29,7 +29,7 @@ Given this, why is a "microservices" architecture better for a modern health sys
 
 Healthcare is complex: we receive data from multiple sources. These sources might include a next generation sequencing machine, "conventional" laboratory assays, free text notes from an electronic health record, reports from external diagnostic test vendors, even the latest article from the New England Journal of Medicine; and that's setting aside the accumulated knowledge about groups of similar patients who's genomic, social, and clinical characteristics similarly influence their health and their responses to different interventions.
 
-You can imagine that how we care for a patient is very much due to the aggregation and integration of all these data sources
+Caring for for a patient is about talking with them and assimilating their health issues, their thresholds for care, and aggregating that personal information with the information gathered and integration
 
 
 
